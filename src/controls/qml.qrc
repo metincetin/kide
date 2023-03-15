@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/components">
+        <file>CommandView.qml</file>
+    </qresource>
+</RCC>

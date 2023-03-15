@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=kide
+Comment=Convergent app ...
+TryExec=kide
+Exec=kide %U
+Terminal=false
+Type=Application
+GenericName=
+StartupNotify=true
+Icon=kide
+Categories=Qt;KDE;
+MimeType=
+SingleMainWindow=true
